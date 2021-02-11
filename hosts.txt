@@ -1,0 +1,37 @@
+Two of the projects I've been working on were distributed systems, one was cloud-based (Azure). While development of distributed systems I've learned that distribution can make system more complex than initially assumed. That's why it's good to consider creating modular monolith at the start of the project (only then convert it to truly distributed).
+Regarding cloud-based systems, I'd say that it is probably the future. Maybe these kind of software is 'expensive', but if we will take into account servers maintenance/administration cost (on-premise), we would find out that it's not really that expensive. 
+Other than that I've experienced scenarios when software was behaving differently on local vs cloud environment which was interesting (and required some additional change to work as planned).
+
+I was working in projects where backend part was about ~80% (20% was frontend).
+I feel comfortable with development of APIs as well as integration with APIs.
+I'm not an expert in backend development, but I think I have wide range of backend related competences. Backend was always the 'go to' for me, because it's in my opinion more interesting than frontend technologies/development.
+Title
+.NET Developer
+Company
+Yameo
+Industry
+Healthcare, Digital Currency
+Summary
+Development and maintenance of two distributed software systems.
+Period
+July 2018 - January 2021(over 2 years)
+Title
+Software Engineer
+Company
+Sii
+Industry
+Finance
+Summary
+Development and maintenance of finance software system.
+Period
+June 2015 - July 2017(about 2 years)
+Title
+Junior C# Developer
+Company
+Younity
+Industry
+E-commerce
+Summary
+Development of comparison shopping website.
+Period
+June 2014 - December 2014(6 months)
